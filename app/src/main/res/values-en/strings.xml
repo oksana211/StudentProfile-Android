@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfilesSystem</string>
+    <string name="already_have_account">Already have account</string>
+    <string name="registration_form">Registration form</string>
+    <string name="nickname">Nickname</string>
+    <string name="Password">Password</string>
+    <string name="registrate">Registrate</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="english">English</string>
+    <string name="login_form">Login Form</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Dont have an account</string>
+    <string name="user_information">User Information</string>
+    <string name="session_information">Session Information</string>
+    <string name="date">Date</string>
+    <string name="activities">Activities</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="users">Users</string>
+    <string name="pressure">Pressure</string>
+    <string name="pulse">Pulse</string>
+    <string name="quantity">Quantity</string>
+    <string name="distance">Distance</string>
+    <string name="result">Result</string>
+    <string name="time">Time</string>
+    <string name="name">Name</string>
+    <string name="role">Role</string>
+    <string name="surname">Surname</string>
+    <string name="sex">Sex</string>
+    <string name="number">Number</string>
+    <string name="school">School</string>
+    <string name="birthday">Birthday</string>
+    <string name="statistic">Statistic</string>
+    <string name="get_statistic">Get Statistic</string>
+    <string name="golden">Golden</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="iron">Iron</string>
+    <string name="rate">Rate</string>
+
+
+</resources>

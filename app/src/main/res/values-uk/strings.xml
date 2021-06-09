@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfilesSystem</string>
+    <string name="already_have_account">Вже є акаунт</string>
+    <string name="registration_form">Реєстрація</string>
+    <string name="nickname">Логін</string>
+    <string name="Password">Пароль</string>
+    <string name="registrate">Зареєструватися</string>
+    <string name="ukrainian">Украінська</string>
+    <string name="english">Англійська</string>
+    <string name="login_form">Форма входу</string>
+    <string name="login">Логін</string>
+    <string name="don_t_have_an_account">Не має облікового запису</string>
+    <string name="user_information">Інформація про користувача</string>
+    <string name="session_information">Інформація про сеанс</string>
+    <string name = "date"> Дата </string>
+    <string name = "activities"> Діяльність </string>
+    <string name = "weight"> Вага </string>
+    <string name = "height"> Зріст </string>
+    <string name = "users"> Користувачі </string>
+    <string name = "pressure"> Тиск </string>
+    <string name = "pulse"> Пульс </string>
+    <string name = "quantity"> Кількість </string>
+    <string name = "distance"> Відстань </string>
+    <string name = "result"> Результат </string>
+    <string name = "time"> Час </string>
+    <string name = "name"> Назва </string>
+    <string name = "role"> Роль </string>
+    <string name = "surname"> Прізвище </string>
+    <string name = "sex"> Род </string>
+    <string name = "number"> Номер телефону </string>
+    <string name = "school"> Школа </string>
+    <string name = "birthday"> День народження </string>
+    <string name = "statistic"> Статистика </string>
+    <string name = "get_statistic"> Отримати статистику </string>
+    <string name = "golden"> Золото </string>
+    <string name = "silver"> Срібло </string>
+    <string name = "bronze"> Бронза </string>
+    <string name = "iron"> Залізо </string>
+    <string name = "rate"> Рейтінг </string>
+
+</resources>
